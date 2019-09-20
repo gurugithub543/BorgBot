@@ -19,7 +19,7 @@ BAALAJI_TG_USER_BOT = "My Master hasn't approved you to PM."
 TG_COMPANION_USER_BOT = "Please wait for his response and don't spam his PM."
 UNIBORG_USER_BOT_WARN_ZERO = "I am currently offline. Please do not SPAM me."
 UNIBORG_USER_BOT_NO_WARN = ("`Bleep blop! This is a bot. Don't fret.`\n\n"
-                  "`If you have any query then you should go to`"
+                  "`If you have any query then you should go to `"
                   "@TheVincentDogs1.\n\n"
                   "`You will find the solutions to all your problems there.`")
 
