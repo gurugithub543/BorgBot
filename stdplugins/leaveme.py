@@ -17,4 +17,4 @@ async def leave(e):
         if '-' in str(e.chat_id):
             await borg(LeaveChannelRequest(e.chat_id))
         else:
-            await e.edit('`Sir This is Not A Chat`')
+            await e.edit('`Sir this is not a chat`')
