@@ -123,7 +123,7 @@ async def _(event):
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 84%\n█████████████████████▒▒▒▒ `",
             "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nFile Scanned... 100%\n█████████████████████████ `",
-            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nResult:⚠️Virus Found⚠️\nMore Info: Torzan, Spyware, Adware\nPro User @prabal007 Can Fix This File For $69 Only.`"
+            "`Quick Heal Total Security Checkup\n\n\nSubscription: Pro User\nValid Until: 31/12/2099\n\nTask: 01 of 01 Files Scanned...\n\nResult:⚠️Virus Found⚠️\nMore Info: Torzan, Spyware, Adware\nPro User @justinguru777 Can Fix This File For $69 Only.`"
         ]
 
         for i in animation_ttl:
